@@ -1,5 +1,5 @@
 # pyMachineRenamerAutomator
-Is a tool to automate the machine name change on domain with the serial number of computer
+Is a tool to automate the machine name change on domain (Active Directory) with the serial number of computer
 
 ## Requisites to work
 1- 1st you need to have the **PSTOOLS** folder in **C:** , you can get in this link: https://docs.microsoft.com/en-us/sysinternals/downloads/pstools.
